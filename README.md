@@ -13,4 +13,13 @@ Advantages
 
 SPICE capacity is allocated separately for each AWS Region. Default SPICE capacity is automatically allocated to your home AWS Region. For each AWS account, SPICE capacity is shared by all the people using QuickSight in a single AWS Region. The other AWS Regions have no SPICE capacity unless you choose to purchase some. QuickSight administrators can view how much SPICE capacity you have in each AWS Region and how much of it is currently in use.
 
+Used Cases :
+1) Using Snowflake connector for Food-truck order data analysis for business review
+2) Using S3 storage People Overview Dataset analysis for Human Capital Insights
 
+
+Steps:
+1) Ingest / Load Data
+2) Automatic appropriate and excellent Analysis is done and available to build dashboard which you can be modified if needed
+3) Data Stories can be build using Dashboards and powerful Amazon Q build by just selecting plots of interest and asking the business problem/agenda in just few minutes.
+4) Enjoy exploring Data and building amazon data stories for exploring business insights and probable solutions
